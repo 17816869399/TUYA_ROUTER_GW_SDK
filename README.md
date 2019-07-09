@@ -4,7 +4,7 @@
 ### REALTEK RTL8197F
 > msdk-4.4.7-mips-EL-3.10-u0.9.33-m32t-140827
 
-### IPC4019
+### 高通 IPC4019
 >arm_cortex-a7_gcc-5.2.0_uClibc-1.0.14_eabi
 
 
